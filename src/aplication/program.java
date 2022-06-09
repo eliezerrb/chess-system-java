@@ -1,6 +1,5 @@
 package aplication;
 
-import java.io.Console;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
